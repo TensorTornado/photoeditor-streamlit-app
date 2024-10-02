@@ -51,7 +51,8 @@ Applied Gaussian blur to reduce noise and computational load before processing.
 Converted images into smaller byte arrays before applying heavier filters.
 Outcome: These optimizations ensured smooth performance even when handling large images.
 
-Project Structure
+## Project Structure
+```plaintext
 photoeditor-streamlit-app/
 │
 ├── app.py                # Main Streamlit app file
